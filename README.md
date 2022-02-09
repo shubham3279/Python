@@ -1,2 +1,2 @@
 # Python
-A repository showcasing all my Python projects . 
+A repository showcasing my Python projects.
